@@ -1,0 +1,96 @@
+/*
+Theme Name:     look | Shared by VestaThemes.com
+Theme URI:      http://demo.themeruby.com/look
+Author:         Theme-Ruby
+Author URI:     https://themeforest.net/user/theme-ruby/portfolio
+Description:    Look: A Fashion & Beauty News, Magazine, & Blog WordPress Theme
+Version:        1.0
+Text Domain:    look
+Tags:           custom-background, custom-menu, editor-style, featured-images, theme-options, custom-colors, translation-ready
+License:        license purchased
+License URI:    http://themeforest.net/licenses/standard
+*/
+.s-social{
+	padding-left:25px !important;
+	padding-right:25px !important;
+	padding-top:5px !important;
+	padding-bottom:5px !important;
+	border-radius:5px;
+	color:white;
+}
+.center-y{
+	margin:auto;
+}
+i{
+	padding-right:2px !important;
+	font-size:20px;
+}
+span{
+	width:100%;
+}
+.bg-comment{
+	background-color:#565656;
+}
+.base-custom {
+	color:white;
+	border-radius:4px;
+}
+.comment-custom {
+	padding:5px 10px;
+	margin-right:10px;
+}
+.footer-custom {
+	padding:12px 0px;
+	width:18%;
+	text-transform:uppercase;
+	font-weight:lighter;
+	margin-left:20px !important;
+}
+.comment-custom i{
+	margin-right:10px;
+}
+.single-entry{
+	margin-left:0px !important;
+}
+.single-tag-wrap{
+	display:none;
+}
+.single-like-wrap{
+	border-top:none;
+}
+.center{
+	text-align:center;
+}
+.title-share{
+	font-weight:bold;
+	text-transform:uppercase;
+}
+a{
+	text-decoration:none !important;
+}
+.post-title a{
+	font-weight:bold;
+}
+.subscribe-custom {
+	padding-top:10%;
+	text-align:center;
+}
+.form-custom {
+	display:grid;
+	grid-template-columns: 65% 35%;
+	width:55%;
+	margin:auto;
+	transform:scalex(1.2);
+}
+.form-custom input{
+	padding:15px 10px;
+}
+.form-custom input[type="text"] {
+	border:1px solid #DBDBDB !important;
+}
+.form-custom input[type="submit"]{
+	background-color:#FF876F;
+	font-weight:900;
+	letter-spacing:0px;
+	font-size:15px !important;
+}
